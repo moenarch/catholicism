@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "2db3c967f103231b",
+    "type": "split",
+    "children": [
+      {
+        "id": "56ae471e558347f1",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d04b718f6019cbf1",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c252ca3b2b8f595",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf481962eea71b0c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bf529ea29ae48891",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7733cbc5f7b73cad",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba6e6fc573f95515",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0ad757d3b39c66c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "56ae471e558347f1",
+  "lastOpenFiles": [
+    "src/Papacy/Papal Infallibility.md",
+    "src/SUMMARY.md",
+    "src/God/Existence of God.md",
+    "src/Books.md",
+    "src/Blessed Virgin Mary.md",
+    "src/Filioque/Basic Arguments/The Father gives all to the Son.md",
+    "src/Filioque/Basic Arguments.md"
+  ]
+}
